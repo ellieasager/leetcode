@@ -1,4 +1,4 @@
-package com.unicats.solutions.solutions27;
+package com.unicats.solutions.solution27;
 
 public class RemoveElement {
 
