@@ -2,7 +2,7 @@ package com.unicats.solutions;
 
 public class S33RotatedSortedArray {
   
-      public static void main(String[] args) {
+    public static void main(String[] args) {
       System.out.println(new S33RotatedSortedArray().search(new int[] {4, 5, 6, 1, 2, 3}, 2));
     }
 
