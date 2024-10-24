@@ -10,7 +10,7 @@ public class S33RotatedSortedArray {
 
       int left = 0;
       int right = nums.length - 1;
-      int middle = (right + left) >> 1;
+      int middle;
 
       while (left < right) {
         middle = (right + left) >> 1;
